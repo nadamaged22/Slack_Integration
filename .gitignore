@@ -1,0 +1,5 @@
+.env
+server.key
+server.cert
+node_modules
+slack_token.json
